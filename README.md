@@ -32,7 +32,19 @@ This is a github project for combing one paint style into another artwork. We be
 
 
 ## Data and Model
-Training Data:
+# Model:
+
+Image Style Transfer Using Convolutional Neural Networks (CNN). This method inverts the image representation based on CNN and by using a texture model, it transfers the style of an image to another with an adjustable weight ratio of the two inputs that can affect the representation of the result.
+Code: https://github.com/roberttwomey/dsc160-code/blob/master/examples/neural-style-transfer.ipynb
+Image Style Transfer Using Convolutional Neural Networks: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
+
+
+Deep Photo Style Transfer, a method to apply the style of an image onto a content image but in realistic settings. With the use of segmentation masks, deep photo style transfer can apply style onto the specified objects instead of on random objects to make the result look realistic. 
+Code: https://github.com/LouieYang/deep-photo-styletransfer-tf
+Deep Photo Style Transfer - https://arxiv.org/pdf/1703.07511.pdf
+
+
+# Training Data:
 
 Artist Info
 
@@ -80,14 +92,6 @@ Data Source: https://www.wikiart.org/en/vincent-van-gogh/the-church-at-auvers-18
 	https://www.wikiwand.com/en/The_Church_at_Auvers
   
   
-Image Style Transfer Using Convolutional Neural Networks (CNN). This method inverts the image representation based on CNN and by using a texture model, it transfers the style of an image to another with an adjustable weight ratio of the two inputs that can affect the representation of the result.
-Code: https://github.com/roberttwomey/dsc160-code/blob/master/examples/neural-style-transfer.ipynb
-Image Style Transfer Using Convolutional Neural Networks: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
-
-
-Deep Photo Style Transfer, a method to apply the style of an image onto a content image but in realistic settings. With the use of segmentation masks, deep photo style transfer can apply style onto the specified objects instead of on random objects to make the result look realistic. 
-Code: https://github.com/LouieYang/deep-photo-styletransfer-tf
-Deep Photo Style Transfer - https://arxiv.org/pdf/1703.07511.pdf
 
 
 
