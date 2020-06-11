@@ -60,6 +60,7 @@ Images and oil painting:
 	
 
 Irises
+
 The oil painting Irises was painted in 1889 inSaint Remy de Provence (France) and it showed the beauty of irises from a special point of view. Van Gogh used a high concentration of green and blue in this painting. It shows the full of softness and lightness. Thoses irises are  full of life without tragedy.
 Similar Composition image: real image with irises flower.
 
@@ -68,6 +69,7 @@ https://longislandnatives.com/products/iris-versicolor-blue-flag-iris
 
 
 Road with Cypress
+
 The oil painting Road with Cypress was painted in 1890 in Saint Remy de Provence (France) and it showed a tall cypress tree in a country side. The sky in this painting shares the similar sky in one of the famous paintings The Starry Night. Also, the cypress was always presented in Van Gogh’s paintings in the advanced years. The Cypress dominated the painting and dwarfed elements around it.
 Similar Composition image: it also has a road with a cypress. However, the land was covered by snow, because we want to use the deep photo transfer to add the color on it.
 Deep photo transfer image: it is a landscape of a wheatfield in yellow and cloudy in the sky.
@@ -77,6 +79,7 @@ https://commons.wikimedia.org/wiki/File:Wheatfield_in_Ottawa.jpg
 
 
 Summer Evening, Wheatfield with Setting sun
+
 Van Gogh painted the oil painting Summer Evening, Wheatfield with Setting sun in 1888 in France. There were vast tracts of wheatfield in the painting with the village and sunset as the background. He used different linewidth to represent each wheat from near to far.
 Similar Composition image: it is a landscape of a wheatfield in yellow and cloudy in the sky. There are also three buildings in shadow in the distance.
 
@@ -85,6 +88,7 @@ https://commons.wikimedia.org/wiki/File:Wheatfield_in_Ottawa.jpg
 
 
 Sunflowers
+
 The oil painting Still Life - Vase with Fifteen Sunflowers was painted in 1888 in France. Van Gogh painted a sunflower series and there were only some minor differences between each oil painting. We selected the all yellow color in the background, vase and sunflower itself with green in stem. But he used different brightness of yellow to distinguish the edges.
 Similar Composition image: a landscape of polar forest fulfilled with fallen leaves in orange color.
 
@@ -94,6 +98,7 @@ https://www.52112.com/pic/143913.html
 
 
 The Church at Auver
+
 When Van Gogh was at Auver, he saw a church and painted in 1890 at Auver in France. It reminded him back to the landscape of  his childhood with small houses with thatched roofs. This time, he didn't paint the sky as dart blue color rather than the style in The Starry Night. It brought a peaceful emotion from this painting.
 Similar Composition image: This is the church prototype from Van Gogh’s painting at Auver. In 1890, Van Gogh saw the church and created The Church at Auver.
 
