@@ -114,13 +114,14 @@ Data Source: https://www.wikiart.org/en/vincent-van-gogh/the-church-at-auvers-18
 4. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/photo_style.py
 5. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/smooth_local_affine.py 
 
-discription of deep photo style transfer: 
+Description of deep photo style transfer: 
 The execution of the deep photo style transfer method is a little different than usual, in that to run this code, you have to run the specified command line in the console. The .py files necessary to run the command line are listed above, and the exact command lines are given in the Deep_Photos_Style_Transfer.ipynb.
 
 ### Style transfer part of code: 
+https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/neural_style_transfer.ipynb
 
-
-
+Description of neural style transfer: 
+This method transfers the style of images using Convolutional Neural Networks (CNN). The notebook from the link above contains two parts: data scraping and preprocessing, and execution of style transfer. For the first part of the notebook, we scraped the images we need from wikiart. Then, along with the content images we had locally, we scaled and cropped them so that the content images and style images are in the same size for style transfer (we did this for each set of content image and style image, and for two sets of them we did the style transfer on the images we got from deep photo transfer). We used gpu to make the images have higher resolutions. After transforming them to pytorch tensors, we are done with the first part. For the second part, we used the pretrained vgg19 model to make the style transfer while tracking the style losses and content losses. And by trying different combinations of style weights and content weights, we choosed the best resulting images as our final results.
 
 (20 points)
 
