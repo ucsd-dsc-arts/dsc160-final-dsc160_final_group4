@@ -5,9 +5,9 @@ DSC160 Data Science and the Arts - Final Project - Generative Arts - Spring 2020
 Project Team Members: 
 - Yicen Ma, yim095@ucsd.edu
 - Xingyu Jiang, xij080@ucsd.edu
-- Firstname Lastname3, name3@ucsd.edu
-- Firstname Lastname4, name4@ucsd.edu
-- Firstname Lastname5, name5@ucsd.edu
+- Chang Yuan, chy238@ucsd.edu
+- Michael Kusnadi, mkusnadi@ucsd.edu
+- Kaixin Huang, k3huang@ucsd.edu
 
 ## Abstract
 For the final project, we will find if there exists any differences or similarities between computer generated Van Gogh paintings and his actual work by using deep photo transfer and style transfer. This means that we will find some real images which has similar objects as some Van Gogh's paintings. Then we will put those real images into models and find the similarties or differences between computer generated painting and his actual work. 
