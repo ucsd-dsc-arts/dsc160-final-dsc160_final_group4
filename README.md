@@ -135,13 +135,9 @@ Link each of these items to your .ipynb or .py files within this seection, and p
 
 ## Results
 
-(30 points) 
+result link:
+https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/results/PDF%20version%20of%20result%20part.pdf
 
-This section should summarize your results and will embed links to documentation to significant outputs. This should document both process and show artistic results. This can include figures, sound files, videos, bitmaps, as appropriate to your generative art idea. Each result should include a brief textual description, and all should be listed below: 
-
-- image files (`.jpg`, `.png` or whatever else is appropriate)
-- audio files (`.wav`, `.mp3`)
-- written text as `.pdf`
 
 ## Discussion
 
