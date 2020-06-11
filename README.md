@@ -32,7 +32,7 @@ This is a github project for combing one paint style into another artwork. We be
 
 
 ## Data and Model
-# Model:
+### Model:
 
 Image Style Transfer Using Convolutional Neural Networks (CNN). This method inverts the image representation based on CNN and by using a texture model, it transfers the style of an image to another with an adjustable weight ratio of the two inputs that can affect the representation of the result.
 Code: https://github.com/roberttwomey/dsc160-code/blob/master/examples/neural-style-transfer.ipynb
@@ -44,7 +44,7 @@ Code: https://github.com/LouieYang/deep-photo-styletransfer-tf
 Deep Photo Style Transfer - https://arxiv.org/pdf/1703.07511.pdf
 
 
-# Training Data:
+### Training Data:
 
 Artist Info
 
