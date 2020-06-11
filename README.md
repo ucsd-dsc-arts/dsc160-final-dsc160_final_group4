@@ -107,6 +107,21 @@ Data Source: https://www.wikiart.org/en/vincent-van-gogh/the-church-at-auvers-18
 
 ## Code
 
+### Deep Photo Style Transfer part of code: 
+1. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/Deep_Photos_Style_Transfer.ipynb
+2. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/closed_form_matting.py
+3. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/deep_photostyle.py
+4. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/photo_style.py
+5. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/smooth_local_affine.py 
+
+discription of deep photo style transfer: 
+The execution of the deep photo style transfer method is a little different than usual, in that to run this code, you have to run the specified command line in the console. The .py files necessary to run the command line are listed above, and the exact command lines are given in the Deep_Photos_Style_Transfer.ipynb.
+
+### Style transfer part of code: 
+
+
+
+
 (20 points)
 
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
