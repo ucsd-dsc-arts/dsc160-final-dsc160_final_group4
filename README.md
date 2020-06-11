@@ -5,7 +5,7 @@ DSC160 Data Science and the Arts - Final Project - Generative Arts - Spring 2020
 Project Team Members: 
 - Yicen Ma, yim095@ucsd.edu
 - Xingyu Jiang, xij080@ucsd.edu
-- Chang Yuan, chy238@ucsd.edu   test
+- Chang Yuan, chy238@ucsd.edu
 - Michael Kusnadi, mkusnadi@ucsd.edu
 - Kaixin Huang, k3huang@ucsd.edu
 
