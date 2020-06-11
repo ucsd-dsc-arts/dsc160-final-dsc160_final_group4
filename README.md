@@ -38,30 +38,29 @@ Artist Info
 
 Van Gogh was a Dutch Post-Impressionist artist in the 1900 century. He was famed for his bold, dramatic brush strokes which expressed emotion and added a feeling of movement to his works.His emerging style saw him emotionally reacting to subjects through his use of color and brush work. He deliberately used colors to capture mood by using the complementary color contrasts and a bolder composition in his advanced years.
 
+
 Images and oil painting:
-
 	We selected all the images and oil paintings of landscapes.
-  
-Irises
+	
 
+Irises
 The oil painting Irises was painted in 1889 inSaint Remy de Provence (France) and it showed the beauty of irises from a special point of view. Van Gogh used a high concentration of green and blue in this painting. It shows the full of softness and lightness. Thoses irises are  full of life without tragedy.
 Similar Composition image: real image with irises flower.
 Data Source:https://www.wikiart.org/en/vincent-van-gogh/irises-1889
 https://longislandnatives.com/products/iris-versicolor-blue-flag-iris
 
-Road with Cypress
 
+Road with Cypress
 The oil painting Road with Cypress was painted in 1890 in Saint Remy de Provence (France) and it showed a tall cypress tree in a country side. The sky in this painting shares the similar sky in one of the famous paintings The Starry Night. Also, the cypress was always presented in Van Gogh’s paintings in the advanced years. The Cypress dominated the painting and dwarfed elements around it.
 Similar Composition image: it also has a road with a cypress. However, the land was covered by snow, because we want to use the deep photo transfer to add the color on it.
 Deep photo transfer image: it is a landscape of a wheatfield in yellow and cloudy in the sky.
-
 Data Source:https://www.wikiart.org/en/vincent-van-gogh/road-with-cypresses-1890	https://www.123rf.com/photo_36085575_lonely-cypress-tree-and-snow-in-winter-season-rural-landscape-val-d-orcia-tuscany-italy.html
 https://commons.wikimedia.org/wiki/File:Wheatfield_in_Ottawa.jpg
+
 
 Summer Evening, Wheatfield with Setting sun
 Van Gogh painted the oil painting Summer Evening, Wheatfield with Setting sun in 1888 in France. There were vast tracts of wheatfield in the painting with the village and sunset as the background. He used different linewidth to represent each wheat from near to far.
 Similar Composition image: it is a landscape of a wheatfield in yellow and cloudy in the sky. There are also three buildings in shadow in the distance.
-
 Data Source: https://www.wikiart.org/en/vincent-van-gogh/summer-evening-wheatfield-with-setting-sun-1888
 https://commons.wikimedia.org/wiki/File:Wheatfield_in_Ottawa.jpg
 
@@ -72,6 +71,7 @@ Similar Composition image: a landscape of polar forest fulfilled with fallen lea
 Data Source: https://www.wikiart.org/en/vincent-van-gogh/still-life-vase-with-fifteen-sunflowers-1888-1
 http://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=秋天落叶&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=3998557001,4033328731&os=3489487148,3249175063&simid=3472044273,490966350&pn=12&rn=1&di=50490&ln=1694&fr=&fmq=1591717961456_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20181223%2F18%2F1545559990-gOTFWpYrZf.jpg&rpstart=0&rpnum=0&adpicid=0&force=undefined&ctd=1591717967400^3_1440X837%1
 https://www.52112.com/pic/143913.html
+
 
 The Church at Auver
 When Van Gogh was at Auver, he saw a church and painted in 1890 at Auver in France. It reminded him back to the landscape of  his childhood with small houses with thatched roofs. This time, he didn't paint the sky as dart blue color rather than the style in The Starry Night. It brought a peaceful emotion from this painting.
