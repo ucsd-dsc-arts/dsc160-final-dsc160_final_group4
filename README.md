@@ -162,7 +162,7 @@ Chang Yuan: any code related work of neural style transfer and its results
 
 Xingyu Jiang: idea thinking, data finding, proposal and first draft result part 
 
-Yicen Ma: idea generator, idea thing, data finding, proposal and final writing of result part
+Yicen Ma: idea generator, idea thing, data finding, data part, proposal and final writing of result part
 
 Michael Kusnadi: discussion part
 
