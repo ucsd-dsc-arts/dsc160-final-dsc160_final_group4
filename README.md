@@ -1,4 +1,4 @@
-# Project Title
+# Comparing Van Gogh’s paintings with Computer Generated Images in His Style
 
 DSC160 Data Science and the Arts - Final Project - Generative Arts - Spring 2020
 
@@ -10,20 +10,19 @@ Project Team Members:
 - Kaixin Huang, k3huang@ucsd.edu
 
 ## Abstract
-For the final project, we will find if there exists any differences or similarities between computer generated Van Gogh paintings and his actual work by using deep photo transfer and style transfer. This means that we will find some real images which has similar objects as some Van Gogh's paintings. Then we will put those real images into models and find the similarties or differences between computer generated painting and his actual work. 
 
-We will divide 2 groups of real image in this project. One group we will put those real images into both deep photo transfer and style transfer. Another group we will just put real images into the style transfer. The reason for us to do that is we find out some real images that has pretty similar object and environment with Van Gogh's real painting. But their main color is different. So we use some strong color image as style and change their color by using deep photo transfer. Then putting them into style transfer and compare the difference and similarities between generated paintings and his actual work. Another group we will just put those real images into style transfer. And compare the differences and similarities between generated paintings and his actual work. 
+In the final project, we decided to transfer a couple of similar composition images with Van Gogh’s landscape oil paintings into Van Gogh style. Then, we will compare the differences and similarities between the transferred images with the original paintings. For the methods and techniques, we want to use the deep photo style transfer, neural style and image style transfer using Convolutional Neural Networks (CNN) to generate the final result. Firstly, we will scrape the oil paintings we selected from the wiki art website. Secondly, we will choose sets of similar composition of real life images from Google. We are going to divide into two groups, in which one is to apply deep photo style transfer onto those realistic images first and the other one is not doing any transformation. Those two groups' divisions depend on the color they have. Thirdly, we will transform the images with the style from Van Gogh’s and compare the new images with the original paintings. For the results, we hope the system will pick the traits of Van Gogh’s artworks and then transfer those real life images into Van Gogh’s style. Our results will be images of those images in Van Gogh style.
 
-For the result, I hope the deep photo transfer, it can successfully change the color from the style real image into the content real image. For the style transfer, it can accurately get Van Gogh's painting skills and changing our real images by using those painting skills. By making some images “van Gogh” like, we can better understand van Gogh’s artistic styles and how he would draw the objects that he had never tried to draw. And we hope our generated results from both groups can be some paintings that will let people think they are looking actual paintings from Van Gogh. 
+By using all the images, it would be challenging to truly define his art style due to his many works. It is hard for us to pick a suitable image with a similar composition and we want to make sure the result is not awkward. To expand the topics from the lectures, we will continue the research for lecture 13 of the neural style transfer and deep photo style transfer. In our project, we will first process the deep photo style transfer and then process the style transfer. Each image we want to add in the deep photo transfer will be training data in that model. After applying the deep photo style transfer, we will be using the style transfer onto those two sets of images, and we will see whether there exist any differences between 2 groups. We will compare those results on the differences and focus on how the traits we add are special in the painting. The interesting part about this project is that we can see some real world images in van Gogh’s style, which can be interesting as there can be some interesting combinations of styles and objects. By making some images “Van Gogh” like, we can better understand van Gogh’s artistic styles and how he would draw the objects that he had never tried to draw.
+
 Reference:
-
 1.https://www.theverge.com/2020/4/2/21204498/art-transfer-google-artists-style-photos.
 This is talking about using the art transfer tech by Google to let you apply famous artists’ styles to your own works
 
 2.https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398
 This gives us some idea on Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution
 
-3.http://headforart.com/2016/12/16/how-artists-use-colour/
+3. http://headforart.com/2016/12/16/how-artists-use-colour/
 This is talking about the importance of color for the artists. And this gives us the idea that we can change the color of those artists’ artworks and then put them into our Van-Gogh model for transferring to Van Gogh art style. And we want to see the influence on changing color on the original artworks during our process of transferring to Van Gogh style. (see whether it will generate different artworks after transfering) 
 
 4.https://github.com/simulacre7/tensorflow-IPythonNotebook/blob/master/neural-style/neural_style.ipynb
