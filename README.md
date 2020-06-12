@@ -193,3 +193,7 @@ http://headforart.com/2016/12/16/how-artists-use-colour/
 
 https://github.com/simulacre7/tensorflow-IPythonNotebook/blob/master/neural-style/neural_style.ipynb
 
+https://github.com/LouieYang/deep-photo-styletransfer-tf
+
+https://arxiv.org/pdf/1703.07511.pdf
+
