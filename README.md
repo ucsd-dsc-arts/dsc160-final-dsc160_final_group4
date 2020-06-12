@@ -117,7 +117,7 @@ Data Source: https://www.wikiart.org/en/vincent-van-gogh/the-church-at-auvers-18
 Description of deep photo style transfer: 
 The execution of the deep photo style transfer method is a little different than usual, in that to run this code, you have to run the specified command line in the console. The .py files necessary to run the command line are listed above, and the exact command lines are given in the Deep_Photos_Style_Transfer.ipynb.
 
-### Style transfer part of code: 
+### Neural Style transfer part of code: 
 https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/neural_style_transfer.ipynb
 
 Description of neural style transfer: 
