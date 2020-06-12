@@ -161,7 +161,9 @@ Any implementation details or notes we need to repeat your work.
 ## Reference
 
 https://github.com/roberttwomey/dsc160-code/blob/master/examples/scrape-wikiart.ipynb
+
 https://github.com/roberttwomey/dsc160-code/blob/master/examples/neural-style-transfer.ipynb
+
 https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
 All references to papers, techniques, previous work, repositories you used should be collected at the bottom:
