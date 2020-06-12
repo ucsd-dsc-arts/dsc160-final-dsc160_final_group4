@@ -131,11 +131,6 @@ Description of deep photo style transfer: The execution of the deep photo style 
 	This py file enables the reconstructed image to be represented by locally affine color transformations of the input to prevent distortions. 
 
 
-Technical Notes and Dependencies
-
-For rapid iterative development which is crucial for deep photo style transfer, PYCUDA is recommended for installation. This enables NVIDIA GPU accelerated computing with Python.
-
-
 ### Neural Style Transfer part of code: 
 https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/neural_style_transfer.ipynb
 
