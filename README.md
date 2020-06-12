@@ -159,8 +159,11 @@ The subsequent paragraphs could address questions including:
 ## Team Roles
 
 Chang Yuan: any code related work of neural style transfer and its results
+Xingyu Jiang: idea thinking, data finding, proposal and first draft result part 
+Yicen Ma: idea generator, idea thing, data finding, proposal and final writing of result part
+Michael Kusnadi: discussion part
+Kaixin Huang: any code related work of deep photo style transfer and its results
 
-Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
 
 ## Technical Notes and Dependencies
 
