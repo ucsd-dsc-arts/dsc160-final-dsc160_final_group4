@@ -90,7 +90,7 @@ Data Source: https://www.wikiart.org/en/vincent-van-gogh/summer-evening-wheatfie
 https://commons.wikimedia.org/wiki/File:Wheatfield_in_Ottawa.jpg
 
 
-Sunflowers
+Still Life - Vase with Fifteen Sunflowers
 
 The oil painting Still Life - Vase with Fifteen Sunflowers was painted in 1888 in France. Van Gogh painted a sunflower series and there were only some minor differences between each oil painting. We selected the all yellow color in the background, vase and sunflower itself with green in stem. But he used different brightness of yellow to distinguish the edges.
 Similar Composition image: a landscape of polar forest fulfilled with fallen leaves in orange color.
@@ -199,4 +199,3 @@ https://github.com/simulacre7/tensorflow-IPythonNotebook/blob/master/neural-styl
 https://github.com/LouieYang/deep-photo-styletransfer-tf
 
 https://arxiv.org/pdf/1703.07511.pdf
-
