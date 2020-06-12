@@ -143,7 +143,7 @@ This method transfers the style of images using Convolutional Neural Networks (C
 ## Results
 
 result link:
-https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/results/PDF%20version%20of%20result%20part.pdf
+https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/results/PDF%20version%20of%20result%20part%20(1).pdf
 
 
 ## Discussion
