@@ -148,16 +148,16 @@ https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/re
 
 ## Discussion
 
-(30 points, three to five paragraphs)
+The purpose of this project is to use deep photo style transfer and image style transfer using convolutional neural networks to apply Van Gogh’s art style to images or photographs of similar composition. The results show that it is important to choose an appropriate picture or canvas to do the style transfer on, this is because the style transfer we are implementing above only allows the replication of colors and grain, and not the details. The style transfer that we are implementing above does not have the ability to change details such as the line directions as well as the overall shape of the image. Although this is so, when given an appropriate image, the style transfer works well and it does replicate Van Gogh’s style to the given image.
 
-The first paragraph should be a short summary describing your results.
+This project is culturally innovative in the view that we are combining aspects of reality and paintings as one. The style transfer from paintings to photography is in itself a culturally innovative action as it combines two forms of artwork which is photography and painting. Furthermore we are able to see how Van Gogh’s artwork could translate in this day and age, this becomes an interesting view to see because we get to see what his artworks would look like in today’s environment and put it into today’s culture which makes this project innovative. 
 
-The subsequent paragraphs could address questions including:
-- Why is this culturally innovative?
-- How does your generative computational approach differ from traditional art/music/cultural production? 
-- How do your results relate to broader social, cultural, economic political, etc., issues? 
-- What are the ethical concerns for this form of generative art? 
-- In what future directions could you expand this work?
+Compared to traditional paintings that are done or even photography, this generative computational approach of style transfer has to have a basis from which it takes its style. So therefore compared to traditional methods where we are creating originally, this approach is more of synthesizing what already exists and renewing it. This is an approach that is debatable and there are also sides which say that it might not be original. With traditional production we also use a more organic way of measuring and creating by using our own senses and feelings to decide. Our approach uses a very calculative method and has no feelings that are used in the process, everything is numerical except for the fact that we can tweak our results and parameters to produce what we want, we also choose our canvas and this is where the originality comes from. 
+
+Style and art go hand in hand with each other, and every art piece has its own style. Each artist and place has their own specific art style that they usually gravitate towards. Because of this exploring style transfer is something that is socially and culturally significant. From this we can further pinpoint certain features that come from a certain artstyle. With this style transfer, culturally, we are able to intermingle many different settings in many different geographical locations that are culturally meaningful and see it in a new style such as Van Gogh’s painting we have done above. Socially, this idea of style transfer will bring about new methods of art and new art pieces will arise from it. By taking reference to an artist’s style though it might be seen as plagiarism and could be ethically problematic as many argue that art should be original, but if we are able to solve these problems, style transfer would be able to open up many possibilities in both the world of art and data analytics.
+
+This project could further be explored by combining or synthesizing two or more styles to create possibly a new art style; this can also work with combining artists within the same art genre.  For example, it would be possible for us to create an art style that combines realism and impressionism and by combining them into one style and then transferring it as we have done in our project above, we will see the production of something culturally innovative as well as something that is original and interesting. In terms of extension, we could also find out how to change details so that the style could be applied to not just similar images but to any image, and this would make this project more adaptable and useful as well. 
+
 
 ## Team Roles
 
