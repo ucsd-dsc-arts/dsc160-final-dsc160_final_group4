@@ -167,10 +167,8 @@ Provide an account of individual members and their efforts/contributions to the 
 Neural Style Transfer:
 We mainly used pytorch for this part of the code. And we used the pretrained vgg19 model as the Convolutional Neural Networks (CNN) for our work. Other than that, we used some other standard libraries such as numpy, matplotlib, beautifulsoup, etc. The code can be run on datahub and no other software is required.
 
-Any implementation details or notes we need to repeat your work. 
-- Additional libraries you are using for this project
-- Does this code require other pip packages, software, etc?
-- Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
+For rapid iterative development which is crucial for deep photo style transfer, PYCUDA is recommended for installation. This enables NVIDIA GPU accelerated computing with Python.
+
 
 ## Reference
 
@@ -180,7 +178,11 @@ https://github.com/roberttwomey/dsc160-code/blob/master/examples/neural-style-tr
 
 https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
-All references to papers, techniques, previous work, repositories you used should be collected at the bottom:
-- Papers
-- Repositories
-- Blog posts
+https://www.theverge.com/2020/4/2/21204498/art-transfer-google-artists-style-photos.
+
+https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398
+
+http://headforart.com/2016/12/16/how-artists-use-colour/
+
+https://github.com/simulacre7/tensorflow-IPythonNotebook/blob/master/neural-style/neural_style.ipynb
+
