@@ -117,7 +117,7 @@ Data Source: https://www.wikiart.org/en/vincent-van-gogh/the-church-at-auvers-18
 Description of deep photo style transfer: 
 The execution of the deep photo style transfer method is a little different than usual, in that to run this code, you have to run the specified command line in the console. The .py files necessary to run the command line are listed above, and the exact command lines are given in the Deep_Photos_Style_Transfer.ipynb.
 
-### Neural Style transfer part of code: 
+### Neural Style Transfer part of code: 
 https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/neural_style_transfer.ipynb
 
 Description of neural style transfer: 
@@ -144,9 +144,14 @@ The subsequent paragraphs could address questions including:
 
 ## Team Roles
 
+Chang Yuan: any code related work of neural style transfer and its results
+
 Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
 
 ## Technical Notes and Dependencies
+
+Neural Style Transfer:
+We mainly used pytorch for this part of the code. And we used the pretrained vgg19 model as the Convolutional Neural Networks (CNN) for our work. Other than that, we used some other standard libraries such as numpy, matplotlib, beautifulsoup, etc. The code can be run on datahub and no other software is required.
 
 Any implementation details or notes we need to repeat your work. 
 - Additional libraries you are using for this project
@@ -154,6 +159,10 @@ Any implementation details or notes we need to repeat your work.
 - Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
+
+https://github.com/roberttwomey/dsc160-code/blob/master/examples/scrape-wikiart.ipynb
+https://github.com/roberttwomey/dsc160-code/blob/master/examples/neural-style-transfer.ipynb
+https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
 All references to papers, techniques, previous work, repositories you used should be collected at the bottom:
 - Papers
