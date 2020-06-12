@@ -106,16 +106,35 @@ Data Source: https://www.wikiart.org/en/vincent-van-gogh/the-church-at-auvers-18
 	https://www.wikiwand.com/en/The_Church_at_Auvers
 
 ## Code
-
 ### Deep Photo Style Transfer part of code: 
-1. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/Deep_Photos_Style_Transfer.ipynb
-2. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/closed_form_matting.py
-3. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/deep_photostyle.py
-4. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/photo_style.py
-5. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/smooth_local_affine.py 
 
-Description of deep photo style transfer: 
-The execution of the deep photo style transfer method is a little different than usual, in that to run this code, you have to run the specified command line in the console. The .py files necessary to run the command line are listed above, and the exact command lines are given in the Deep_Photos_Style_Transfer.ipynb.
+Description of deep photo style transfer: The execution of the deep photo style transfer method is a little different than usual, in that to run this code, you have to run the specified command line in the console. The .py files necessary to run the command line are listed above, and the exact command lines are given in the Deep_Photos_Style_Transfer.ipynb.
+
+1. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/Deep_Photos_Style_Transfer.ipynb
+
+	This notebook contains the necessary commands needed to run the deep photo style transfer method onto the specified content image and the style image. 
+
+2. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/closed_form_matting.py
+
+	This py file uses the Matting Laplacian to constrain the transformation from the input to the output to be locally affine in colorspace.
+	
+3. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/deep_photostyle.py
+
+	This py file contains all the argument input options such as the training optimizer, the weight regularization, and whether to apply the smooth local affine. Once all the necessary options are specified, this deep_photostyle py file will execute photo_style.py, closed_form_matting.py, and smooth_local_affine.py if specified. 
+
+4. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/photo_style.py
+
+	This py file calls the loss function that tries to minimize the content loss and style loss. This enables the style transfer affect, which is overlaying the style of the style image onto the content image. In addition, the photorealism effect can be augmented by incorporating segmentation masks by calling the stylized function. This helps to specify which style certain objects should contain instead of randomly over-laced with random colors. 
+
+5. https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/smooth_local_affine.py
+
+	This py file enables the reconstructed image to be represented by locally affine color transformations of the input to prevent distortions. 
+
+
+Technical Notes and Dependencies
+
+For rapid iterative development which is crucial for deep photo style transfer, PYCUDA is recommended for installation. This enables NVIDIA GPU accelerated computing with Python.
+
 
 ### Neural Style Transfer part of code: 
 https://github.com/ucsd-dsc-arts/dsc160-final-dsc160_final_group4/blob/master/Code/neural_style_transfer.ipynb
